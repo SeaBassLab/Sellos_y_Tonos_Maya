@@ -1,0 +1,162 @@
+[
+    {
+        "number": 1,
+        "name":"Dragon",
+        "mayaName":"IMIX",
+        "feature":"ser",
+        "action":"Nutrir",
+        "power":"nacimiento"
+    },
+    {
+        "number": 2,
+        "name":"Viento",
+        "mayaName":"IK",
+        "feature":"aliento divino",
+        "action":"Comunicar",
+        "power":"espíritu"
+    },
+    {
+        "number": 3,
+        "name":"Noche",
+        "mayaName":"AKBAL",
+        "feature":"intuición",
+        "action":"Soñar",
+        "power":"abundancia"
+    },
+    {
+        "number": 4,
+        "name":"Semilla",
+        "mayaName":"KAN",
+        "feature":"atención",
+        "action":"Atinar",
+        "power":"florecimiento"
+    },
+    {
+        "number": 5,
+        "name":"Serpiente",
+        "mayaName":"CHICHÁN",
+        "feature":"instinto",
+        "action":"Sobrevivir",
+        "power":"fuerza vital"
+    },
+    {
+        "number": 6,
+        "name":"Enlazador de mundos",
+        "mayaName":"CIMI",
+        "feature":"oportunidad",
+        "action":"Igualar",
+        "power":"muerte"
+    },
+    {
+        "number": 7,
+        "name":"Mano",
+        "mayaName":"MANIK",
+        "feature":"curación",
+        "action":"Conocer",
+        "power":"realización"
+    },
+    {
+        "number": 8,
+        "name":"Estrella",
+        "mayaName":"LAMAT",
+        "feature":"arte",
+        "action":"Embellecer",
+        "power":"elegancia"
+    },
+    {
+        "number": 9,
+        "name":"Luna",
+        "mayaName":"MULUC",
+        "feature":"flujo",
+        "action":"Purificar",
+        "power":"agua universal"
+    },
+    {
+        "number": 10,
+        "name":"Perro",
+        "mayaName":"OC",
+        "feature":"lealtad",
+        "action":"Amar",
+        "power":"corazón"
+    },
+    {
+        "number": 11,
+        "name":"Mono",
+        "mayaName":"CHUEN",
+        "feature":"ilusión",
+        "action":"Jugar",
+        "power":"magia"
+    },
+    {
+        "number": 12,
+        "name":"Humano",
+        "mayaName":"EB",
+        "feature":"sabiduría",
+        "action":"Influenciar",
+        "power":"libre voluntad"
+    },
+    {
+        "number": 13,
+        "name":"Caminante dcielo",
+        "mayaName":"BEN",
+        "feature":"vigilancia",
+        "action":"Explorar",
+        "power":"espacio"
+    },
+    {
+        "number": 14,
+        "name":"Mago",
+        "mayaName":"IX",
+        "feature":"receptividad",
+        "action":"Encantar",
+        "power":"atemporalidad"
+    },
+    {
+        "number": 15,
+        "name":"Águila",
+        "mayaName":"MEN",
+        "feature":"mente",
+        "action":"Crear",
+        "power":"visión"
+    },
+    {
+        "number": 16,
+        "name":"Guerrero",
+        "mayaName":"CIB",
+        "feature":"intrepidez",
+        "action":"Cuestionar",
+        "power":"inteligencia"
+    },
+    {
+        "number": 17,
+        "name":"Tierra",
+        "mayaName":"CABÁN",
+        "feature":"sincronía",
+        "action":"Evolucionar",
+        "power":"navegación"
+    },
+    {
+        "number": 18,
+        "name":"Espejo",
+        "mayaName":"ETZNAB",
+        "feature":"orden",
+        "action":"Reflejar",
+        "power":"sinfín"
+    },
+    {
+        "number": 19,
+        "name":"Tormenta",
+        "mayaName":"CAUAC",
+        "feature":"energía",
+        "action":"Catalizar",
+        "power":"autogeneración"
+    },
+    {
+        "number": 20,
+        "name":"Sol",
+        "mayaName":"AHAU",
+        "feature":"vida",
+        "action":"Iluminar",
+        "power":"fuego universal"
+    }
+]

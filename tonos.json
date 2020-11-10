@@ -1,0 +1,93 @@
+[
+    {
+        "number": 1,
+        "name":"Magnético/a",
+        "mayaName":"HUN",
+        "action":"atre un proposito unificando",
+        "keyWord":["Atraer", "Propósito", "Unificar"]
+    },
+    {
+        "number": 2,
+        "name":"Lunar",
+        "mayaName":"KA",
+        "action":"desafia la estabilidad polarizando",
+        "keyWord":["Desafio", "Estabilizar", "Polarizar"]
+    },
+    {
+        "number": 3,
+        "name":"Eléctrico/a",
+        "mayaName":"OX",
+        "action":"activa el servicio vinculando",
+        "keyWord":["Activar", "Servicio", "Vincular"]
+    },
+    {
+        "number": 4,
+        "name":"Autoexistente",
+        "mayaName":"KAN",
+        "action":"define la forma midiendo",
+        "keyWord":["Definir", "Formar", "Medir"]
+    },
+    {
+        "number": 5,
+        "name":"Entonado/a",
+        "mayaName":"HO",
+        "action":"concede el poder de comandar esplendidamente un/a",
+        "keyWord":["Comandar", "Conferir poder", "Esplendor"] 
+    },
+    {
+        "number": 6,
+        "name":"Rítmico/a",
+        "mayaName":"UAK",
+        "action":"iguala y organiza equilibrando",
+        "keyWord":["Equilibrar", "Igualdad", "Organizar"]
+    },
+    {
+        "number":7,
+        "name":"Resonante",
+        "mayaName":"UUK",
+        "action":"inspira la armonía canalizando",
+        "keyWord":["Armonizacíon", "Canalizar", "Inspirar"]
+    },
+    {   
+        "number":8,
+        "name":"Galactico/a", 
+        "mayaName":"UAXAK",
+        "action":"usa la armonía para modelar integramente",
+        "keyWord":["Armonizar", "Integridad", "Modelar"]
+    },
+    {   
+        "number":9,
+        "name":"Solar",
+        "mayaName":"BOLON",
+        "action":"pulsa la intención de realizar",
+        "keyWord":["Intención", "Pulsar", "Realizar"]
+    },
+    {
+        "number":10,
+        "name":"Planetario/a",
+        "mayaName":"LAHUN",
+        "action":"produce la manifestación de perfeccionar",
+        "keyWord":["Manifestación", "Perfeccionar", "Producir"]
+    },  
+    {
+        "number":11,
+        "name":"Espectral",
+        "mayaName":"BULUK",
+        "action":"divulga, disuelve y libera",
+        "keyWord":["Disolver", "Divulgar", "Liberación"]
+    },
+    {   
+        "number":12,
+        "name":"Cristal",
+        "mayaName":"LAHAK",
+        "action":"universalmente se dedica y coopera con",
+        "keyWord":["Cooperación", "Dedicarse", "Universalizar"]
+    },
+    {
+        "number":13,
+        "name":"Cósmico/a",
+        "mayaName":"OXLAHUN",
+        "action":"perdura presenciando trascender",
+        "keyWord":["Perdurar", "Presencia", "Trascender"]
+    }
+]
